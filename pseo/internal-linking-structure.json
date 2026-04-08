@@ -1,0 +1,41 @@
+{
+  "generated_on": "2026-04-08",
+  "flows": [
+    {
+      "from": "/resources/*.html",
+      "to": [
+        "/services/local-seo-contractors.html",
+        "/services/website-design-contractors.html",
+        "/services/google-business-profile-optimization.html",
+        "/website-design/{industry}/{city}-tx/"
+      ],
+      "rule": "Each resource article must include at least 1 service link and 1 local/programmatic link."
+    },
+    {
+      "from": "/services/*.html",
+      "to": [
+        "/industries.html",
+        "/resources/index.html",
+        "/website-design/{industry}/{city}-tx/"
+      ],
+      "rule": "Service pages act as cluster pillars and link to supporting resources and tier-1 local pages."
+    },
+    {
+      "from": "/index.html",
+      "to": [
+        "/resources/index.html",
+        "/services/index.html",
+        "/website-design/roofing/dallas-tx/index.html",
+        "/website-design/hvac/fort-worth-tx/index.html",
+        "/website-design/plumbing/lubbock-tx/index.html"
+      ],
+      "rule": "Homepage funnels authority to hubs and top tier pages."
+    }
+  ],
+  "anchor_text_examples": [
+    "Local SEO for HVAC contractors in Fort Worth",
+    "Website design for roofing companies in Dallas",
+    "Google Maps optimization for plumbers in Lubbock",
+    "Texas contractor lead generation system"
+  ]
+}

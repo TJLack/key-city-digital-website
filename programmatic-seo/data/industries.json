@@ -1,0 +1,590 @@
+[
+  {
+    "industry": "Roofing",
+    "slug": "roofing",
+    "urgency_level": "high",
+    "avg_job_value_context": "Average ticket often around $12,000+ depending on scope.",
+    "common_problems": [
+      "Inconsistent lead volume",
+      "Low visibility in local search",
+      "Weak website conversion rates"
+    ],
+    "lead_generation_challenges": [
+      "High local competition",
+      "Slow speed-to-lead",
+      "Low-quality inquiries from broad targeting"
+    ],
+    "common_services_needed": [
+      "Website design",
+      "Local SEO",
+      "Google Maps optimization",
+      "Paid ads",
+      "Lead capture automation"
+    ],
+    "trust_factors": [
+      "Review quality and recency",
+      "Before/after proof",
+      "Clear service guarantees"
+    ]
+  },
+  {
+    "industry": "HVAC",
+    "slug": "hvac",
+    "urgency_level": "high",
+    "avg_job_value_context": "Average ticket often around $6,500+ depending on scope.",
+    "common_problems": [
+      "Inconsistent lead volume",
+      "Low visibility in local search",
+      "Weak website conversion rates"
+    ],
+    "lead_generation_challenges": [
+      "High local competition",
+      "Slow speed-to-lead",
+      "Low-quality inquiries from broad targeting"
+    ],
+    "common_services_needed": [
+      "Website design",
+      "Local SEO",
+      "Google Maps optimization",
+      "Paid ads",
+      "Lead capture automation"
+    ],
+    "trust_factors": [
+      "Review quality and recency",
+      "Before/after proof",
+      "Clear service guarantees"
+    ]
+  },
+  {
+    "industry": "Plumbing",
+    "slug": "plumbing",
+    "urgency_level": "high",
+    "avg_job_value_context": "Average ticket often around $5,500+ depending on scope.",
+    "common_problems": [
+      "Inconsistent lead volume",
+      "Low visibility in local search",
+      "Weak website conversion rates"
+    ],
+    "lead_generation_challenges": [
+      "High local competition",
+      "Slow speed-to-lead",
+      "Low-quality inquiries from broad targeting"
+    ],
+    "common_services_needed": [
+      "Website design",
+      "Local SEO",
+      "Google Maps optimization",
+      "Paid ads",
+      "Lead capture automation"
+    ],
+    "trust_factors": [
+      "Review quality and recency",
+      "Before/after proof",
+      "Clear service guarantees"
+    ]
+  },
+  {
+    "industry": "Electrical",
+    "slug": "electrical",
+    "urgency_level": "high",
+    "avg_job_value_context": "Average ticket often around $4,200+ depending on scope.",
+    "common_problems": [
+      "Inconsistent lead volume",
+      "Low visibility in local search",
+      "Weak website conversion rates"
+    ],
+    "lead_generation_challenges": [
+      "High local competition",
+      "Slow speed-to-lead",
+      "Low-quality inquiries from broad targeting"
+    ],
+    "common_services_needed": [
+      "Website design",
+      "Local SEO",
+      "Google Maps optimization",
+      "Paid ads",
+      "Lead capture automation"
+    ],
+    "trust_factors": [
+      "Review quality and recency",
+      "Before/after proof",
+      "Clear service guarantees"
+    ]
+  },
+  {
+    "industry": "Remodeling",
+    "slug": "remodeling",
+    "urgency_level": "medium",
+    "avg_job_value_context": "Average ticket often around $18,000+ depending on scope.",
+    "common_problems": [
+      "Inconsistent lead volume",
+      "Low visibility in local search",
+      "Weak website conversion rates"
+    ],
+    "lead_generation_challenges": [
+      "High local competition",
+      "Slow speed-to-lead",
+      "Low-quality inquiries from broad targeting"
+    ],
+    "common_services_needed": [
+      "Website design",
+      "Local SEO",
+      "Google Maps optimization",
+      "Paid ads",
+      "Lead capture automation"
+    ],
+    "trust_factors": [
+      "Review quality and recency",
+      "Before/after proof",
+      "Clear service guarantees"
+    ]
+  },
+  {
+    "industry": "Painting",
+    "slug": "painting",
+    "urgency_level": "medium",
+    "avg_job_value_context": "Average ticket often around $3,500+ depending on scope.",
+    "common_problems": [
+      "Inconsistent lead volume",
+      "Low visibility in local search",
+      "Weak website conversion rates"
+    ],
+    "lead_generation_challenges": [
+      "High local competition",
+      "Slow speed-to-lead",
+      "Low-quality inquiries from broad targeting"
+    ],
+    "common_services_needed": [
+      "Website design",
+      "Local SEO",
+      "Google Maps optimization",
+      "Paid ads",
+      "Lead capture automation"
+    ],
+    "trust_factors": [
+      "Review quality and recency",
+      "Before/after proof",
+      "Clear service guarantees"
+    ]
+  },
+  {
+    "industry": "Pressure Washing",
+    "slug": "pressure-washing",
+    "urgency_level": "medium",
+    "avg_job_value_context": "Average ticket often around $1,200+ depending on scope.",
+    "common_problems": [
+      "Inconsistent lead volume",
+      "Low visibility in local search",
+      "Weak website conversion rates"
+    ],
+    "lead_generation_challenges": [
+      "High local competition",
+      "Slow speed-to-lead",
+      "Low-quality inquiries from broad targeting"
+    ],
+    "common_services_needed": [
+      "Website design",
+      "Local SEO",
+      "Google Maps optimization",
+      "Paid ads",
+      "Lead capture automation"
+    ],
+    "trust_factors": [
+      "Review quality and recency",
+      "Before/after proof",
+      "Clear service guarantees"
+    ]
+  },
+  {
+    "industry": "Fencing",
+    "slug": "fencing",
+    "urgency_level": "medium",
+    "avg_job_value_context": "Average ticket often around $4,800+ depending on scope.",
+    "common_problems": [
+      "Inconsistent lead volume",
+      "Low visibility in local search",
+      "Weak website conversion rates"
+    ],
+    "lead_generation_challenges": [
+      "High local competition",
+      "Slow speed-to-lead",
+      "Low-quality inquiries from broad targeting"
+    ],
+    "common_services_needed": [
+      "Website design",
+      "Local SEO",
+      "Google Maps optimization",
+      "Paid ads",
+      "Lead capture automation"
+    ],
+    "trust_factors": [
+      "Review quality and recency",
+      "Before/after proof",
+      "Clear service guarantees"
+    ]
+  },
+  {
+    "industry": "Foundation Repair",
+    "slug": "foundation-repair",
+    "urgency_level": "high",
+    "avg_job_value_context": "Average ticket often around $9,000+ depending on scope.",
+    "common_problems": [
+      "Inconsistent lead volume",
+      "Low visibility in local search",
+      "Weak website conversion rates"
+    ],
+    "lead_generation_challenges": [
+      "High local competition",
+      "Slow speed-to-lead",
+      "Low-quality inquiries from broad targeting"
+    ],
+    "common_services_needed": [
+      "Website design",
+      "Local SEO",
+      "Google Maps optimization",
+      "Paid ads",
+      "Lead capture automation"
+    ],
+    "trust_factors": [
+      "Review quality and recency",
+      "Before/after proof",
+      "Clear service guarantees"
+    ]
+  },
+  {
+    "industry": "Landscaping",
+    "slug": "landscaping",
+    "urgency_level": "medium",
+    "avg_job_value_context": "Average ticket often around $2,500+ depending on scope.",
+    "common_problems": [
+      "Inconsistent lead volume",
+      "Low visibility in local search",
+      "Weak website conversion rates"
+    ],
+    "lead_generation_challenges": [
+      "High local competition",
+      "Slow speed-to-lead",
+      "Low-quality inquiries from broad targeting"
+    ],
+    "common_services_needed": [
+      "Website design",
+      "Local SEO",
+      "Google Maps optimization",
+      "Paid ads",
+      "Lead capture automation"
+    ],
+    "trust_factors": [
+      "Review quality and recency",
+      "Before/after proof",
+      "Clear service guarantees"
+    ]
+  },
+  {
+    "industry": "Gutter Services",
+    "slug": "gutter-services",
+    "urgency_level": "medium",
+    "avg_job_value_context": "Average ticket often around $2,200+ depending on scope.",
+    "common_problems": [
+      "Inconsistent lead volume",
+      "Low visibility in local search",
+      "Weak website conversion rates"
+    ],
+    "lead_generation_challenges": [
+      "High local competition",
+      "Slow speed-to-lead",
+      "Low-quality inquiries from broad targeting"
+    ],
+    "common_services_needed": [
+      "Website design",
+      "Local SEO",
+      "Google Maps optimization",
+      "Paid ads",
+      "Lead capture automation"
+    ],
+    "trust_factors": [
+      "Review quality and recency",
+      "Before/after proof",
+      "Clear service guarantees"
+    ]
+  },
+  {
+    "industry": "General Contracting",
+    "slug": "general-contracting",
+    "urgency_level": "medium",
+    "avg_job_value_context": "Average ticket often around $15,000+ depending on scope.",
+    "common_problems": [
+      "Inconsistent lead volume",
+      "Low visibility in local search",
+      "Weak website conversion rates"
+    ],
+    "lead_generation_challenges": [
+      "High local competition",
+      "Slow speed-to-lead",
+      "Low-quality inquiries from broad targeting"
+    ],
+    "common_services_needed": [
+      "Website design",
+      "Local SEO",
+      "Google Maps optimization",
+      "Paid ads",
+      "Lead capture automation"
+    ],
+    "trust_factors": [
+      "Review quality and recency",
+      "Before/after proof",
+      "Clear service guarantees"
+    ]
+  },
+  {
+    "industry": "Window Replacement",
+    "slug": "window-replacement",
+    "urgency_level": "medium",
+    "avg_job_value_context": "Average ticket often around $9,000+ depending on scope.",
+    "common_problems": [
+      "Inconsistent lead volume",
+      "Low visibility in local search",
+      "Weak website conversion rates"
+    ],
+    "lead_generation_challenges": [
+      "High local competition",
+      "Slow speed-to-lead",
+      "Low-quality inquiries from broad targeting"
+    ],
+    "common_services_needed": [
+      "Website design",
+      "Local SEO",
+      "Google Maps optimization",
+      "Paid ads",
+      "Lead capture automation"
+    ],
+    "trust_factors": [
+      "Review quality and recency",
+      "Before/after proof",
+      "Clear service guarantees"
+    ]
+  },
+  {
+    "industry": "Flooring",
+    "slug": "flooring",
+    "urgency_level": "medium",
+    "avg_job_value_context": "Average ticket often around $7,000+ depending on scope.",
+    "common_problems": [
+      "Inconsistent lead volume",
+      "Low visibility in local search",
+      "Weak website conversion rates"
+    ],
+    "lead_generation_challenges": [
+      "High local competition",
+      "Slow speed-to-lead",
+      "Low-quality inquiries from broad targeting"
+    ],
+    "common_services_needed": [
+      "Website design",
+      "Local SEO",
+      "Google Maps optimization",
+      "Paid ads",
+      "Lead capture automation"
+    ],
+    "trust_factors": [
+      "Review quality and recency",
+      "Before/after proof",
+      "Clear service guarantees"
+    ]
+  },
+  {
+    "industry": "Garage Door",
+    "slug": "garage-door",
+    "urgency_level": "high",
+    "avg_job_value_context": "Average ticket often around $1,800+ depending on scope.",
+    "common_problems": [
+      "Inconsistent lead volume",
+      "Low visibility in local search",
+      "Weak website conversion rates"
+    ],
+    "lead_generation_challenges": [
+      "High local competition",
+      "Slow speed-to-lead",
+      "Low-quality inquiries from broad targeting"
+    ],
+    "common_services_needed": [
+      "Website design",
+      "Local SEO",
+      "Google Maps optimization",
+      "Paid ads",
+      "Lead capture automation"
+    ],
+    "trust_factors": [
+      "Review quality and recency",
+      "Before/after proof",
+      "Clear service guarantees"
+    ]
+  },
+  {
+    "industry": "Solar Installation",
+    "slug": "solar-installation",
+    "urgency_level": "medium",
+    "avg_job_value_context": "Average ticket often around $21,000+ depending on scope.",
+    "common_problems": [
+      "Inconsistent lead volume",
+      "Low visibility in local search",
+      "Weak website conversion rates"
+    ],
+    "lead_generation_challenges": [
+      "High local competition",
+      "Slow speed-to-lead",
+      "Low-quality inquiries from broad targeting"
+    ],
+    "common_services_needed": [
+      "Website design",
+      "Local SEO",
+      "Google Maps optimization",
+      "Paid ads",
+      "Lead capture automation"
+    ],
+    "trust_factors": [
+      "Review quality and recency",
+      "Before/after proof",
+      "Clear service guarantees"
+    ]
+  },
+  {
+    "industry": "Pool Services",
+    "slug": "pool-services",
+    "urgency_level": "medium",
+    "avg_job_value_context": "Average ticket often around $1,600+ depending on scope.",
+    "common_problems": [
+      "Inconsistent lead volume",
+      "Low visibility in local search",
+      "Weak website conversion rates"
+    ],
+    "lead_generation_challenges": [
+      "High local competition",
+      "Slow speed-to-lead",
+      "Low-quality inquiries from broad targeting"
+    ],
+    "common_services_needed": [
+      "Website design",
+      "Local SEO",
+      "Google Maps optimization",
+      "Paid ads",
+      "Lead capture automation"
+    ],
+    "trust_factors": [
+      "Review quality and recency",
+      "Before/after proof",
+      "Clear service guarantees"
+    ]
+  },
+  {
+    "industry": "Pest Control",
+    "slug": "pest-control",
+    "urgency_level": "high",
+    "avg_job_value_context": "Average ticket often around $900+ depending on scope.",
+    "common_problems": [
+      "Inconsistent lead volume",
+      "Low visibility in local search",
+      "Weak website conversion rates"
+    ],
+    "lead_generation_challenges": [
+      "High local competition",
+      "Slow speed-to-lead",
+      "Low-quality inquiries from broad targeting"
+    ],
+    "common_services_needed": [
+      "Website design",
+      "Local SEO",
+      "Google Maps optimization",
+      "Paid ads",
+      "Lead capture automation"
+    ],
+    "trust_factors": [
+      "Review quality and recency",
+      "Before/after proof",
+      "Clear service guarantees"
+    ]
+  },
+  {
+    "industry": "Tree Services",
+    "slug": "tree-services",
+    "urgency_level": "medium",
+    "avg_job_value_context": "Average ticket often around $1,700+ depending on scope.",
+    "common_problems": [
+      "Inconsistent lead volume",
+      "Low visibility in local search",
+      "Weak website conversion rates"
+    ],
+    "lead_generation_challenges": [
+      "High local competition",
+      "Slow speed-to-lead",
+      "Low-quality inquiries from broad targeting"
+    ],
+    "common_services_needed": [
+      "Website design",
+      "Local SEO",
+      "Google Maps optimization",
+      "Paid ads",
+      "Lead capture automation"
+    ],
+    "trust_factors": [
+      "Review quality and recency",
+      "Before/after proof",
+      "Clear service guarantees"
+    ]
+  },
+  {
+    "industry": "Restoration",
+    "slug": "restoration",
+    "urgency_level": "high",
+    "avg_job_value_context": "Average ticket often around $11,000+ depending on scope.",
+    "common_problems": [
+      "Inconsistent lead volume",
+      "Low visibility in local search",
+      "Weak website conversion rates"
+    ],
+    "lead_generation_challenges": [
+      "High local competition",
+      "Slow speed-to-lead",
+      "Low-quality inquiries from broad targeting"
+    ],
+    "common_services_needed": [
+      "Website design",
+      "Local SEO",
+      "Google Maps optimization",
+      "Paid ads",
+      "Lead capture automation"
+    ],
+    "trust_factors": [
+      "Review quality and recency",
+      "Before/after proof",
+      "Clear service guarantees"
+    ]
+  },
+  {
+    "industry": "Insulation",
+    "slug": "insulation",
+    "urgency_level": "medium",
+    "avg_job_value_context": "Average ticket often around $3,000+ depending on scope.",
+    "common_problems": [
+      "Inconsistent lead volume",
+      "Low visibility in local search",
+      "Weak website conversion rates"
+    ],
+    "lead_generation_challenges": [
+      "High local competition",
+      "Slow speed-to-lead",
+      "Low-quality inquiries from broad targeting"
+    ],
+    "common_services_needed": [
+      "Website design",
+      "Local SEO",
+      "Google Maps optimization",
+      "Paid ads",
+      "Lead capture automation"
+    ],
+    "trust_factors": [
+      "Review quality and recency",
+      "Before/after proof",
+      "Clear service guarantees"
+    ]
+  }
+]
