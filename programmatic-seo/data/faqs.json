@@ -1,0 +1,32 @@
+{
+  "service_faqs": [
+    {
+      "q": "How long does this service take to work for contractors?",
+      "a": "Most campaigns show early movement in 30 to 90 days, depending on baseline performance and local competition. Long-term growth compounds as authority and conversion systems improve."
+    },
+    {
+      "q": "Do you only work with Texas home service businesses?",
+      "a": "Yes. Key City Digital focuses on contractors and home service companies in Texas so strategy stays market-specific and performance-oriented."
+    }
+  ],
+  "industry_faqs": [
+    {
+      "q": "What is the best marketing strategy for {industry} companies?",
+      "a": "Most {industry} companies win by combining a high-converting website, local SEO, Google Maps optimization, and fast lead response. The right mix depends on service area, average ticket, and lead goals."
+    },
+    {
+      "q": "How do {industry} contractors get more qualified leads?",
+      "a": "Qualified leads improve when messaging is specific, local relevance is strong, and conversion paths are clear. Better targeting and faster follow-up also reduce low-intent inquiries."
+    }
+  ],
+  "city_faqs": [
+    {
+      "q": "How competitive is contractor marketing in {city}, TX?",
+      "a": "{city} is a {population_tier} market in the {metro_area} metro area with {contractor_density} contractor density. That means visibility and trust signals have a direct impact on who gets the call first."
+    },
+    {
+      "q": "Why does local SEO matter in {city}, TX?",
+      "a": "Local SEO matters in {city} because homeowners compare nearby options quickly in search and maps. Strong local relevance helps your company appear at the exact moment demand is highest."
+    }
+  ]
+}
