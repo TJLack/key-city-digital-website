@@ -1,0 +1,10 @@
+{
+  "related_services_limit": 3,
+  "related_city_limit": 3,
+  "industry_marketing_prefix": "industry-marketing",
+  "link_sets": [
+    "Learn more about {service} for {industry}",
+    "See {service} services in nearby Texas cities",
+    "Explore digital marketing for {industry} companies in Texas"
+  ]
+}

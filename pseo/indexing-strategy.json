@@ -1,0 +1,202 @@
+{
+  "generated_on": "2026-04-08",
+  "rollout_phase": "week1-2",
+  "index_now": [
+    "/website-design/hvac/dallas-tx/",
+    "/website-design/hvac/fort-worth-tx/",
+    "/website-design/hvac/lubbock-tx/",
+    "/website-design/plumbing/dallas-tx/",
+    "/website-design/plumbing/fort-worth-tx/",
+    "/website-design/plumbing/lubbock-tx/",
+    "/website-design/roofing/dallas-tx/",
+    "/website-design/roofing/fort-worth-tx/",
+    "/website-design/roofing/lubbock-tx/"
+  ],
+  "defer_index": [
+    "/website-design/electrical/arlington-tx/",
+    "/website-design/electrical/austin-tx/",
+    "/website-design/electrical/brownsville-tx/",
+    "/website-design/electrical/corpus-christi-tx/",
+    "/website-design/electrical/dallas-tx/",
+    "/website-design/electrical/el-paso-tx/",
+    "/website-design/electrical/fort-worth-tx/",
+    "/website-design/electrical/frisco-tx/",
+    "/website-design/electrical/garland-tx/",
+    "/website-design/electrical/grand-prairie-tx/",
+    "/website-design/electrical/houston-tx/",
+    "/website-design/electrical/irving-tx/",
+    "/website-design/electrical/katy-tx/",
+    "/website-design/electrical/laredo-tx/",
+    "/website-design/electrical/lubbock-tx/",
+    "/website-design/electrical/mcallen-tx/",
+    "/website-design/electrical/mckinney-tx/",
+    "/website-design/electrical/mesquite-tx/",
+    "/website-design/electrical/pasadena-tx/",
+    "/website-design/electrical/pearland-tx/",
+    "/website-design/electrical/plano-tx/",
+    "/website-design/electrical/round-rock-tx/",
+    "/website-design/electrical/san-antonio-tx/",
+    "/website-design/electrical/sugar-land-tx/",
+    "/website-design/electrical/the-woodlands-tx/",
+    "/website-design/hvac/arlington-tx/",
+    "/website-design/hvac/austin-tx/",
+    "/website-design/hvac/brownsville-tx/",
+    "/website-design/hvac/corpus-christi-tx/",
+    "/website-design/hvac/el-paso-tx/",
+    "/website-design/hvac/frisco-tx/",
+    "/website-design/hvac/garland-tx/",
+    "/website-design/hvac/grand-prairie-tx/",
+    "/website-design/hvac/houston-tx/",
+    "/website-design/hvac/irving-tx/",
+    "/website-design/hvac/katy-tx/",
+    "/website-design/hvac/laredo-tx/",
+    "/website-design/hvac/mcallen-tx/",
+    "/website-design/hvac/mckinney-tx/",
+    "/website-design/hvac/mesquite-tx/",
+    "/website-design/hvac/pasadena-tx/",
+    "/website-design/hvac/pearland-tx/",
+    "/website-design/hvac/plano-tx/",
+    "/website-design/hvac/round-rock-tx/",
+    "/website-design/hvac/san-antonio-tx/",
+    "/website-design/hvac/sugar-land-tx/",
+    "/website-design/hvac/the-woodlands-tx/",
+    "/website-design/plumbing/arlington-tx/",
+    "/website-design/plumbing/austin-tx/",
+    "/website-design/plumbing/brownsville-tx/",
+    "/website-design/plumbing/corpus-christi-tx/",
+    "/website-design/plumbing/el-paso-tx/",
+    "/website-design/plumbing/frisco-tx/",
+    "/website-design/plumbing/garland-tx/",
+    "/website-design/plumbing/grand-prairie-tx/",
+    "/website-design/plumbing/houston-tx/",
+    "/website-design/plumbing/irving-tx/",
+    "/website-design/plumbing/katy-tx/",
+    "/website-design/plumbing/laredo-tx/",
+    "/website-design/plumbing/mcallen-tx/",
+    "/website-design/plumbing/mckinney-tx/",
+    "/website-design/plumbing/mesquite-tx/",
+    "/website-design/plumbing/pasadena-tx/",
+    "/website-design/plumbing/pearland-tx/",
+    "/website-design/plumbing/plano-tx/",
+    "/website-design/plumbing/round-rock-tx/",
+    "/website-design/plumbing/san-antonio-tx/",
+    "/website-design/plumbing/sugar-land-tx/",
+    "/website-design/plumbing/the-woodlands-tx/",
+    "/website-design/remodeling/arlington-tx/",
+    "/website-design/remodeling/austin-tx/",
+    "/website-design/remodeling/brownsville-tx/",
+    "/website-design/remodeling/corpus-christi-tx/",
+    "/website-design/remodeling/dallas-tx/",
+    "/website-design/remodeling/el-paso-tx/",
+    "/website-design/remodeling/fort-worth-tx/",
+    "/website-design/remodeling/frisco-tx/",
+    "/website-design/remodeling/garland-tx/",
+    "/website-design/remodeling/grand-prairie-tx/",
+    "/website-design/remodeling/houston-tx/",
+    "/website-design/remodeling/irving-tx/",
+    "/website-design/remodeling/katy-tx/",
+    "/website-design/remodeling/lubbock-tx/",
+    "/website-design/remodeling/mcallen-tx/",
+    "/website-design/remodeling/mckinney-tx/",
+    "/website-design/remodeling/mesquite-tx/",
+    "/website-design/remodeling/plano-tx/",
+    "/website-design/remodeling/round-rock-tx/",
+    "/website-design/remodeling/san-antonio-tx/",
+    "/website-design/roofing/arlington-tx/",
+    "/website-design/roofing/austin-tx/",
+    "/website-design/roofing/brownsville-tx/",
+    "/website-design/roofing/corpus-christi-tx/",
+    "/website-design/roofing/el-paso-tx/",
+    "/website-design/roofing/frisco-tx/",
+    "/website-design/roofing/garland-tx/",
+    "/website-design/roofing/grand-prairie-tx/",
+    "/website-design/roofing/houston-tx/",
+    "/website-design/roofing/irving-tx/",
+    "/website-design/roofing/katy-tx/",
+    "/website-design/roofing/laredo-tx/",
+    "/website-design/roofing/mcallen-tx/",
+    "/website-design/roofing/mckinney-tx/",
+    "/website-design/roofing/mesquite-tx/",
+    "/website-design/roofing/pasadena-tx/",
+    "/website-design/roofing/pearland-tx/",
+    "/website-design/roofing/plano-tx/",
+    "/website-design/roofing/round-rock-tx/",
+    "/website-design/roofing/san-antonio-tx/",
+    "/website-design/roofing/sugar-land-tx/",
+    "/website-design/roofing/the-woodlands-tx/"
+  ],
+  "hold_future": [],
+  "indexing_timeline": {
+    "week1-2": "Index tier1 only; submit sitemap-core + sitemap-tier1.",
+    "week3-4": "Unlock top 30% of tier2 by uniqueness/performance; keep remaining tier2 on noindex.",
+    "month2": "Unlock up to 65% tier2, begin selective tier3 promotion after content refresh.",
+    "month3-plus": "Full tier2 indexing and controlled tier3 entry based on winning clusters."
+  },
+  "internal_linking_rules": {
+    "tier1": "Linked from homepage/services/industry hubs and cross-linked between top city pages.",
+    "tier2": "Linked primarily from tier1 pages and local cluster pages; keep global nav exposure limited.",
+    "tier3": "Not included in hub lists. Keep direct links minimal until promoted."
+  },
+  "performance_monitoring": {
+    "metrics": [
+      "impressions",
+      "clicks",
+      "average_position",
+      "conversions",
+      "cta_click_rate"
+    ],
+    "group_by": [
+      "service",
+      "industry",
+      "city",
+      "tier"
+    ],
+    "winning_cluster_rule": "Promote clusters with 2+ weeks above median CTR and conversion rate.",
+    "current_indexed_combos": 9
+  },
+  "audit_issues": {
+    "/website-design/roofing/mesquite-tx/": [
+      "low_uniqueness_score"
+    ],
+    "/website-design/roofing/austin-tx/": [
+      "low_uniqueness_score"
+    ],
+    "/website-design/roofing/garland-tx/": [
+      "low_uniqueness_score"
+    ],
+    "/website-design/remodeling/mesquite-tx/": [
+      "low_uniqueness_score"
+    ],
+    "/website-design/hvac/mesquite-tx/": [
+      "low_uniqueness_score"
+    ],
+    "/website-design/hvac/austin-tx/": [
+      "low_uniqueness_score"
+    ],
+    "/website-design/hvac/grand-prairie-tx/": [
+      "low_uniqueness_score"
+    ],
+    "/website-design/plumbing/mesquite-tx/": [
+      "low_uniqueness_score"
+    ],
+    "/website-design/plumbing/garland-tx/": [
+      "low_uniqueness_score"
+    ],
+    "/website-design/plumbing/grand-prairie-tx/": [
+      "low_uniqueness_score"
+    ],
+    "/website-design/plumbing/corpus-christi-tx/": [
+      "low_uniqueness_score"
+    ],
+    "/website-design/electrical/corpus-christi-tx/": [
+      "low_uniqueness_score"
+    ]
+  },
+  "ai_search_optimization": {
+    "requirements": [
+      "Direct Q&A sections retained",
+      "Structured headings and concise answers",
+      "FAQ + Breadcrumb + Service schema present"
+    ]
+  }
+}

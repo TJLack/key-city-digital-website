@@ -1,0 +1,132 @@
+[
+  {
+    "service": "Website Design",
+    "slug": "website-design",
+    "outcomes": [
+      "Higher website conversion rates",
+      "More calls from local homeowners",
+      "Better close-ready leads"
+    ],
+    "deliverables": [
+      "Market and competitor analysis",
+      "Strategy and implementation roadmap",
+      "Conversion-focused execution",
+      "Monthly optimization and reporting"
+    ],
+    "benefits": [
+      "More qualified calls",
+      "Better lead quality",
+      "Higher booked-job consistency"
+    ],
+    "common_objections": [
+      "Will this work in my city?",
+      "How fast will results show?",
+      "Do I need all services at once?"
+    ],
+    "results_explanation": "Results usually improve fastest when website conversion, local visibility, and speed-to-lead are optimized together."
+  },
+  {
+    "service": "Local SEO",
+    "slug": "local-seo",
+    "outcomes": [
+      "Higher rankings for service keywords",
+      "Compounding organic lead flow",
+      "More map and website clicks"
+    ],
+    "deliverables": [
+      "Market and competitor analysis",
+      "Strategy and implementation roadmap",
+      "Conversion-focused execution",
+      "Monthly optimization and reporting"
+    ],
+    "benefits": [
+      "More qualified calls",
+      "Better lead quality",
+      "Higher booked-job consistency"
+    ],
+    "common_objections": [
+      "Will this work in my city?",
+      "How fast will results show?",
+      "Do I need all services at once?"
+    ],
+    "results_explanation": "Results usually improve fastest when website conversion, local visibility, and speed-to-lead are optimized together."
+  },
+  {
+    "service": "Google Maps Optimization",
+    "slug": "google-maps",
+    "outcomes": [
+      "Better GBP visibility",
+      "More calls from map pack",
+      "Stronger local trust signals"
+    ],
+    "deliverables": [
+      "Market and competitor analysis",
+      "Strategy and implementation roadmap",
+      "Conversion-focused execution",
+      "Monthly optimization and reporting"
+    ],
+    "benefits": [
+      "More qualified calls",
+      "Better lead quality",
+      "Higher booked-job consistency"
+    ],
+    "common_objections": [
+      "Will this work in my city?",
+      "How fast will results show?",
+      "Do I need all services at once?"
+    ],
+    "results_explanation": "Results usually improve fastest when website conversion, local visibility, and speed-to-lead are optimized together."
+  },
+  {
+    "service": "Facebook Ads",
+    "slug": "facebook-ads",
+    "outcomes": [
+      "Faster lead generation",
+      "Predictable demand campaigns",
+      "Improved cost per qualified lead"
+    ],
+    "deliverables": [
+      "Market and competitor analysis",
+      "Strategy and implementation roadmap",
+      "Conversion-focused execution",
+      "Monthly optimization and reporting"
+    ],
+    "benefits": [
+      "More qualified calls",
+      "Better lead quality",
+      "Higher booked-job consistency"
+    ],
+    "common_objections": [
+      "Will this work in my city?",
+      "How fast will results show?",
+      "Do I need all services at once?"
+    ],
+    "results_explanation": "Results usually improve fastest when website conversion, local visibility, and speed-to-lead are optimized together."
+  },
+  {
+    "service": "AI Chatbots",
+    "slug": "ai-chatbots",
+    "outcomes": [
+      "Instant lead response",
+      "24/7 lead capture",
+      "Improved qualification before callback"
+    ],
+    "deliverables": [
+      "Market and competitor analysis",
+      "Strategy and implementation roadmap",
+      "Conversion-focused execution",
+      "Monthly optimization and reporting"
+    ],
+    "benefits": [
+      "More qualified calls",
+      "Better lead quality",
+      "Higher booked-job consistency"
+    ],
+    "common_objections": [
+      "Will this work in my city?",
+      "How fast will results show?",
+      "Do I need all services at once?"
+    ],
+    "results_explanation": "Results usually improve fastest when website conversion, local visibility, and speed-to-lead are optimized together."
+  }
+]

@@ -1,0 +1,767 @@
+[
+  {
+    "city": "Abilene",
+    "state": "TX",
+    "slug": "abilene",
+    "metro_area": "Big Country",
+    "population_tier": "mid",
+    "nearby_cities": [
+      "Sweetwater",
+      "Clyde",
+      "Merkel"
+    ],
+    "contractor_density": "medium",
+    "competitiveness_summary": "Competitive local contractor market with strong referral overlap.",
+    "service_relevance_notes": "Strong demand for roofing, HVAC, and plumbing visibility."
+  },
+  {
+    "city": "Dallas",
+    "state": "TX",
+    "slug": "dallas",
+    "metro_area": "Dallas-Fort Worth",
+    "population_tier": "large",
+    "nearby_cities": [
+      "Irving",
+      "Mesquite",
+      "Garland"
+    ],
+    "contractor_density": "very high",
+    "competitiveness_summary": "Dense agency competition and aggressive paid media environment.",
+    "service_relevance_notes": "High-value service calls and intense map pack competition."
+  },
+  {
+    "city": "Fort Worth",
+    "state": "TX",
+    "slug": "fort-worth",
+    "metro_area": "Dallas-Fort Worth",
+    "population_tier": "large",
+    "nearby_cities": [
+      "Arlington",
+      "Benbrook",
+      "Burleson"
+    ],
+    "contractor_density": "high",
+    "competitiveness_summary": "Rapidly growing home service competition across suburbs.",
+    "service_relevance_notes": "Local SEO and paid ads both critical for market share."
+  },
+  {
+    "city": "Arlington",
+    "state": "TX",
+    "slug": "arlington",
+    "metro_area": "Dallas-Fort Worth",
+    "population_tier": "large",
+    "nearby_cities": [
+      "Grand Prairie",
+      "Mansfield",
+      "Kennedale"
+    ],
+    "contractor_density": "high",
+    "competitiveness_summary": "Strong contractor density and high consumer comparison behavior.",
+    "service_relevance_notes": "Fast response and conversion UX are major differentiators."
+  },
+  {
+    "city": "Plano",
+    "state": "TX",
+    "slug": "plano",
+    "metro_area": "Dallas-Fort Worth",
+    "population_tier": "large",
+    "nearby_cities": [
+      "Frisco",
+      "Allen",
+      "Richardson"
+    ],
+    "contractor_density": "high",
+    "competitiveness_summary": "Premium homeowner market with high trust requirements.",
+    "service_relevance_notes": "Branding and review signals heavily influence close rates."
+  },
+  {
+    "city": "Frisco",
+    "state": "TX",
+    "slug": "frisco",
+    "metro_area": "Dallas-Fort Worth",
+    "population_tier": "large",
+    "nearby_cities": [
+      "Plano",
+      "McKinney",
+      "Little Elm"
+    ],
+    "contractor_density": "high",
+    "competitiveness_summary": "High-growth neighborhoods create competitive lead markets.",
+    "service_relevance_notes": "Maps visibility and ad precision are critical."
+  },
+  {
+    "city": "McKinney",
+    "state": "TX",
+    "slug": "mckinney",
+    "metro_area": "Dallas-Fort Worth",
+    "population_tier": "large",
+    "nearby_cities": [
+      "Allen",
+      "Frisco",
+      "Prosper"
+    ],
+    "contractor_density": "high",
+    "competitiveness_summary": "Growing contractor market with mixed legacy/new players.",
+    "service_relevance_notes": "SEO + conversion optimization drives stable lead flow."
+  },
+  {
+    "city": "Midland",
+    "state": "TX",
+    "slug": "midland",
+    "metro_area": "Permian Basin",
+    "population_tier": "mid",
+    "nearby_cities": [
+      "Odessa",
+      "Andrews",
+      "Big Spring"
+    ],
+    "contractor_density": "medium",
+    "competitiveness_summary": "Oil-driven economy creates cyclical demand and opportunity.",
+    "service_relevance_notes": "Reliable lead systems reduce volatility in bookings."
+  },
+  {
+    "city": "Odessa",
+    "state": "TX",
+    "slug": "odessa",
+    "metro_area": "Permian Basin",
+    "population_tier": "mid",
+    "nearby_cities": [
+      "Midland",
+      "Monahans",
+      "Kermit"
+    ],
+    "contractor_density": "medium",
+    "competitiveness_summary": "Service demand is steady but digital execution often outdated.",
+    "service_relevance_notes": "Website conversion upgrades typically create immediate lift."
+  },
+  {
+    "city": "San Angelo",
+    "state": "TX",
+    "slug": "san-angelo",
+    "metro_area": "Concho Valley",
+    "population_tier": "mid",
+    "nearby_cities": [
+      "Ballinger",
+      "Sonora",
+      "Brady"
+    ],
+    "contractor_density": "medium",
+    "competitiveness_summary": "Moderate competition with strong local reputation effects.",
+    "service_relevance_notes": "GBP optimization often yields outsized gains."
+  },
+  {
+    "city": "Lubbock",
+    "state": "TX",
+    "slug": "lubbock",
+    "metro_area": "South Plains",
+    "population_tier": "large",
+    "nearby_cities": [
+      "Levelland",
+      "Wolfforth",
+      "Plainview"
+    ],
+    "contractor_density": "high",
+    "competitiveness_summary": "Strong home service demand with crowded search landscape.",
+    "service_relevance_notes": "Integrated SEO + ads needed for consistent pipeline."
+  },
+  {
+    "city": "Wichita Falls",
+    "state": "TX",
+    "slug": "wichita-falls",
+    "metro_area": "North Texas",
+    "population_tier": "mid",
+    "nearby_cities": [
+      "Burkburnett",
+      "Iowa Park",
+      "Vernon"
+    ],
+    "contractor_density": "medium",
+    "competitiveness_summary": "Smaller metro with concentrated contractor competition.",
+    "service_relevance_notes": "Authority content and local trust indicators are key."
+  },
+  {
+    "city": "Austin",
+    "state": "TX",
+    "slug": "austin",
+    "metro_area": "Central Texas",
+    "population_tier": "large",
+    "nearby_cities": [
+      "Round Rock",
+      "Cedar Park",
+      "Pflugerville"
+    ],
+    "contractor_density": "very high",
+    "competitiveness_summary": "Fast-growing, high-CPC digital market with educated buyers.",
+    "service_relevance_notes": "Premium brand positioning improves close rates."
+  },
+  {
+    "city": "Houston",
+    "state": "TX",
+    "slug": "houston",
+    "metro_area": "Greater Houston",
+    "population_tier": "large",
+    "nearby_cities": [
+      "Sugar Land",
+      "Katy",
+      "Pasadena"
+    ],
+    "contractor_density": "very high",
+    "competitiveness_summary": "Massive contractor landscape and heavy ad competition.",
+    "service_relevance_notes": "Lead qualification systems prevent budget waste."
+  },
+  {
+    "city": "San Antonio",
+    "state": "TX",
+    "slug": "san-antonio",
+    "metro_area": "South Texas",
+    "population_tier": "large",
+    "nearby_cities": [
+      "New Braunfels",
+      "Schertz",
+      "Converse"
+    ],
+    "contractor_density": "high",
+    "competitiveness_summary": "Large and diverse homeowner base with strong local search usage.",
+    "service_relevance_notes": "Localized service pages improve market penetration."
+  },
+  {
+    "city": "El Paso",
+    "state": "TX",
+    "slug": "el-paso",
+    "metro_area": "Far West Texas",
+    "population_tier": "large",
+    "nearby_cities": [
+      "Socorro",
+      "Horizon City",
+      "Canutillo"
+    ],
+    "contractor_density": "medium",
+    "competitiveness_summary": "Cross-market behavior requires clear local relevance signals.",
+    "service_relevance_notes": "Map optimization and multilingual messaging can help."
+  },
+  {
+    "city": "Amarillo",
+    "state": "TX",
+    "slug": "amarillo",
+    "metro_area": "Panhandle",
+    "population_tier": "mid",
+    "nearby_cities": [
+      "Canyon",
+      "Bushland",
+      "Pampa"
+    ],
+    "contractor_density": "medium",
+    "competitiveness_summary": "Regional contractor market with reputation-led buying.",
+    "service_relevance_notes": "Review generation and response speed drive results."
+  },
+  {
+    "city": "Beaumont",
+    "state": "TX",
+    "slug": "beaumont",
+    "metro_area": "Golden Triangle",
+    "population_tier": "mid",
+    "nearby_cities": [
+      "Port Arthur",
+      "Nederland",
+      "Orange"
+    ],
+    "contractor_density": "medium",
+    "competitiveness_summary": "Legacy providers dominate unless digital strategy is modernized.",
+    "service_relevance_notes": "Website and local SEO updates often outperform competitors."
+  },
+  {
+    "city": "Waco",
+    "state": "TX",
+    "slug": "waco",
+    "metro_area": "Central Texas",
+    "population_tier": "mid",
+    "nearby_cities": [
+      "Temple",
+      "Hewitt",
+      "Woodway"
+    ],
+    "contractor_density": "medium",
+    "competitiveness_summary": "Growing market with mixed search maturity.",
+    "service_relevance_notes": "Educational content supports trust and booking conversion."
+  },
+  {
+    "city": "Killeen",
+    "state": "TX",
+    "slug": "killeen",
+    "metro_area": "Central Texas",
+    "population_tier": "mid",
+    "nearby_cities": [
+      "Harker Heights",
+      "Copperas Cove",
+      "Temple"
+    ],
+    "contractor_density": "medium",
+    "competitiveness_summary": "Price-sensitive leads require better qualification workflows.",
+    "service_relevance_notes": "AI chat and lead triage reduce low-intent calls."
+  },
+  {
+    "city": "Tyler",
+    "state": "TX",
+    "slug": "tyler",
+    "metro_area": "East Texas",
+    "population_tier": "mid",
+    "nearby_cities": [
+      "Longview",
+      "Lindale",
+      "Whitehouse"
+    ],
+    "contractor_density": "medium",
+    "competitiveness_summary": "Strong local competition with relationship-driven sales.",
+    "service_relevance_notes": "Brand trust and case-proof content improve win rates."
+  },
+  {
+    "city": "Longview",
+    "state": "TX",
+    "slug": "longview",
+    "metro_area": "East Texas",
+    "population_tier": "mid",
+    "nearby_cities": [
+      "Tyler",
+      "Kilgore",
+      "Marshall"
+    ],
+    "contractor_density": "medium",
+    "competitiveness_summary": "Regional contractor overlap increases search competition.",
+    "service_relevance_notes": "Local SEO + conversion pages create consistent growth."
+  },
+  {
+    "city": "College Station",
+    "state": "TX",
+    "slug": "college-station",
+    "metro_area": "Brazos Valley",
+    "population_tier": "mid",
+    "nearby_cities": [
+      "Bryan",
+      "Navasota",
+      "Huntsville"
+    ],
+    "contractor_density": "medium",
+    "competitiveness_summary": "Seasonal demand swings require flexible channel mix.",
+    "service_relevance_notes": "Paid ads plus SEO stabilize pipeline."
+  },
+  {
+    "city": "Bryan",
+    "state": "TX",
+    "slug": "bryan",
+    "metro_area": "Brazos Valley",
+    "population_tier": "mid",
+    "nearby_cities": [
+      "College Station",
+      "Hearne",
+      "Navasota"
+    ],
+    "contractor_density": "medium",
+    "competitiveness_summary": "Competitive local-service environment with mixed digital maturity.",
+    "service_relevance_notes": "Site speed and mobile UX are frequent bottlenecks."
+  },
+  {
+    "city": "Corpus Christi",
+    "state": "TX",
+    "slug": "corpus-christi",
+    "metro_area": "Coastal Bend",
+    "population_tier": "large",
+    "nearby_cities": [
+      "Portland",
+      "Rockport",
+      "Kingsville"
+    ],
+    "contractor_density": "high",
+    "competitiveness_summary": "Coastal service demand creates high urgency call behavior.",
+    "service_relevance_notes": "Fast response systems improve booked-job share."
+  },
+  {
+    "city": "Brownsville",
+    "state": "TX",
+    "slug": "brownsville",
+    "metro_area": "Rio Grande Valley",
+    "population_tier": "large",
+    "nearby_cities": [
+      "Harlingen",
+      "McAllen",
+      "San Benito"
+    ],
+    "contractor_density": "medium",
+    "competitiveness_summary": "Local competition is fragmented with trust-led buyer decisions.",
+    "service_relevance_notes": "GBP and review strategy improve conversion confidence."
+  },
+  {
+    "city": "McAllen",
+    "state": "TX",
+    "slug": "mcallen",
+    "metro_area": "Rio Grande Valley",
+    "population_tier": "large",
+    "nearby_cities": [
+      "Edinburg",
+      "Mission",
+      "Pharr"
+    ],
+    "contractor_density": "high",
+    "competitiveness_summary": "Dense market requires sharper offer positioning.",
+    "service_relevance_notes": "Landing-page clarity and ad segmentation are key."
+  },
+  {
+    "city": "Edinburg",
+    "state": "TX",
+    "slug": "edinburg",
+    "metro_area": "Rio Grande Valley",
+    "population_tier": "mid",
+    "nearby_cities": [
+      "McAllen",
+      "Mission",
+      "Pharr"
+    ],
+    "contractor_density": "medium",
+    "competitiveness_summary": "Growing demand but inconsistent competitor execution.",
+    "service_relevance_notes": "SEO content clusters can quickly build authority."
+  },
+  {
+    "city": "Mission",
+    "state": "TX",
+    "slug": "mission",
+    "metro_area": "Rio Grande Valley",
+    "population_tier": "mid",
+    "nearby_cities": [
+      "McAllen",
+      "Edinburg",
+      "Pharr"
+    ],
+    "contractor_density": "medium",
+    "competitiveness_summary": "High local search use in emergency service categories.",
+    "service_relevance_notes": "Maps ranking and click-to-call optimization matter most."
+  },
+  {
+    "city": "Pharr",
+    "state": "TX",
+    "slug": "pharr",
+    "metro_area": "Rio Grande Valley",
+    "population_tier": "mid",
+    "nearby_cities": [
+      "McAllen",
+      "Edinburg",
+      "Mission"
+    ],
+    "contractor_density": "medium",
+    "competitiveness_summary": "Service area overlap requires stronger local relevance pages.",
+    "service_relevance_notes": "Industry-specific pages improve qualified lead intent."
+  },
+  {
+    "city": "Round Rock",
+    "state": "TX",
+    "slug": "round-rock",
+    "metro_area": "Central Texas",
+    "population_tier": "large",
+    "nearby_cities": [
+      "Austin",
+      "Georgetown",
+      "Pflugerville"
+    ],
+    "contractor_density": "high",
+    "competitiveness_summary": "Strong homeowner demand and high vendor comparison behavior.",
+    "service_relevance_notes": "Premium design and trust signals improve conversion."
+  },
+  {
+    "city": "Georgetown",
+    "state": "TX",
+    "slug": "georgetown",
+    "metro_area": "Central Texas",
+    "population_tier": "mid",
+    "nearby_cities": [
+      "Round Rock",
+      "Leander",
+      "Austin"
+    ],
+    "contractor_density": "medium",
+    "competitiveness_summary": "Growing market where brand authority drives choice.",
+    "service_relevance_notes": "Content and reviews support close-rate gains."
+  },
+  {
+    "city": "Pflugerville",
+    "state": "TX",
+    "slug": "pflugerville",
+    "metro_area": "Central Texas",
+    "population_tier": "mid",
+    "nearby_cities": [
+      "Austin",
+      "Round Rock",
+      "Hutto"
+    ],
+    "contractor_density": "medium",
+    "competitiveness_summary": "Suburban expansion increases contractor competition.",
+    "service_relevance_notes": "Local page depth supports faster map growth."
+  },
+  {
+    "city": "Cedar Park",
+    "state": "TX",
+    "slug": "cedar-park",
+    "metro_area": "Central Texas",
+    "population_tier": "mid",
+    "nearby_cities": [
+      "Leander",
+      "Austin",
+      "Round Rock"
+    ],
+    "contractor_density": "medium",
+    "competitiveness_summary": "Competitive suburban service market with high digital reliance.",
+    "service_relevance_notes": "Ads + SEO mix improves consistency."
+  },
+  {
+    "city": "Leander",
+    "state": "TX",
+    "slug": "leander",
+    "metro_area": "Central Texas",
+    "population_tier": "mid",
+    "nearby_cities": [
+      "Cedar Park",
+      "Georgetown",
+      "Austin"
+    ],
+    "contractor_density": "medium",
+    "competitiveness_summary": "Rapid growth creates opportunity for modern operators.",
+    "service_relevance_notes": "Conversion UX and speed-to-lead are decisive."
+  },
+  {
+    "city": "Allen",
+    "state": "TX",
+    "slug": "allen",
+    "metro_area": "Dallas-Fort Worth",
+    "population_tier": "mid",
+    "nearby_cities": [
+      "Plano",
+      "McKinney",
+      "Frisco"
+    ],
+    "contractor_density": "high",
+    "competitiveness_summary": "High buyer expectations and crowded service options.",
+    "service_relevance_notes": "Branding plus maps visibility strengthens trust."
+  },
+  {
+    "city": "Garland",
+    "state": "TX",
+    "slug": "garland",
+    "metro_area": "Dallas-Fort Worth",
+    "population_tier": "large",
+    "nearby_cities": [
+      "Dallas",
+      "Mesquite",
+      "Richardson"
+    ],
+    "contractor_density": "high",
+    "competitiveness_summary": "Large market with high ad pressure and local competition.",
+    "service_relevance_notes": "Lead qualification prevents wasted spend."
+  },
+  {
+    "city": "Irving",
+    "state": "TX",
+    "slug": "irving",
+    "metro_area": "Dallas-Fort Worth",
+    "population_tier": "large",
+    "nearby_cities": [
+      "Dallas",
+      "Grand Prairie",
+      "Grapevine"
+    ],
+    "contractor_density": "high",
+    "competitiveness_summary": "High-volume search activity and strong contractor overlap.",
+    "service_relevance_notes": "Offer specificity improves click-to-call conversion."
+  },
+  {
+    "city": "Mesquite",
+    "state": "TX",
+    "slug": "mesquite",
+    "metro_area": "Dallas-Fort Worth",
+    "population_tier": "large",
+    "nearby_cities": [
+      "Dallas",
+      "Garland",
+      "Forney"
+    ],
+    "contractor_density": "medium",
+    "competitiveness_summary": "Mixed-quality competitor sites create optimization opportunity.",
+    "service_relevance_notes": "Website upgrades can quickly improve lead flow."
+  },
+  {
+    "city": "Grand Prairie",
+    "state": "TX",
+    "slug": "grand-prairie",
+    "metro_area": "Dallas-Fort Worth",
+    "population_tier": "large",
+    "nearby_cities": [
+      "Arlington",
+      "Irving",
+      "Mansfield"
+    ],
+    "contractor_density": "high",
+    "competitiveness_summary": "Competitive map pack and paid channels.",
+    "service_relevance_notes": "Local authority signals are critical."
+  },
+  {
+    "city": "Mansfield",
+    "state": "TX",
+    "slug": "mansfield",
+    "metro_area": "Dallas-Fort Worth",
+    "population_tier": "mid",
+    "nearby_cities": [
+      "Arlington",
+      "Grand Prairie",
+      "Burleson"
+    ],
+    "contractor_density": "medium",
+    "competitiveness_summary": "Growing suburban demand with heavy vendor comparison.",
+    "service_relevance_notes": "Educational content helps differentiate."
+  },
+  {
+    "city": "Burleson",
+    "state": "TX",
+    "slug": "burleson",
+    "metro_area": "Dallas-Fort Worth",
+    "population_tier": "mid",
+    "nearby_cities": [
+      "Fort Worth",
+      "Mansfield",
+      "Cleburne"
+    ],
+    "contractor_density": "medium",
+    "competitiveness_summary": "Regional market with tight local trust networks.",
+    "service_relevance_notes": "Review velocity and profile optimization matter."
+  },
+  {
+    "city": "Katy",
+    "state": "TX",
+    "slug": "katy",
+    "metro_area": "Greater Houston",
+    "population_tier": "large",
+    "nearby_cities": [
+      "Houston",
+      "Sugar Land",
+      "Cypress"
+    ],
+    "contractor_density": "high",
+    "competitiveness_summary": "Strong demand with many established contractors.",
+    "service_relevance_notes": "Niche service pages improve relevance."
+  },
+  {
+    "city": "Sugar Land",
+    "state": "TX",
+    "slug": "sugar-land",
+    "metro_area": "Greater Houston",
+    "population_tier": "large",
+    "nearby_cities": [
+      "Houston",
+      "Missouri City",
+      "Katy"
+    ],
+    "contractor_density": "high",
+    "competitiveness_summary": "Premium buyer market prioritizes professionalism and trust.",
+    "service_relevance_notes": "Brand quality impacts conversion rate."
+  },
+  {
+    "city": "The Woodlands",
+    "state": "TX",
+    "slug": "the-woodlands",
+    "metro_area": "Greater Houston",
+    "population_tier": "large",
+    "nearby_cities": [
+      "Conroe",
+      "Spring",
+      "Tomball"
+    ],
+    "contractor_density": "high",
+    "competitiveness_summary": "Affluent market with high competition for quality leads.",
+    "service_relevance_notes": "High-converting websites are essential."
+  },
+  {
+    "city": "Conroe",
+    "state": "TX",
+    "slug": "conroe",
+    "metro_area": "Greater Houston",
+    "population_tier": "mid",
+    "nearby_cities": [
+      "The Woodlands",
+      "Spring",
+      "Magnolia"
+    ],
+    "contractor_density": "medium",
+    "competitiveness_summary": "Fast growth market with local search dependence.",
+    "service_relevance_notes": "Maps + SEO clusters drive steady traffic."
+  },
+  {
+    "city": "Spring",
+    "state": "TX",
+    "slug": "spring",
+    "metro_area": "Greater Houston",
+    "population_tier": "mid",
+    "nearby_cities": [
+      "The Woodlands",
+      "Houston",
+      "Tomball"
+    ],
+    "contractor_density": "medium",
+    "competitiveness_summary": "High contractor overlap in adjacent service zones.",
+    "service_relevance_notes": "Service-area clarity improves lead quality."
+  },
+  {
+    "city": "Tomball",
+    "state": "TX",
+    "slug": "tomball",
+    "metro_area": "Greater Houston",
+    "population_tier": "mid",
+    "nearby_cities": [
+      "Spring",
+      "Cypress",
+      "Magnolia"
+    ],
+    "contractor_density": "medium",
+    "competitiveness_summary": "Competitive local environment with trust-led buying.",
+    "service_relevance_notes": "Case-study proof helps close more deals."
+  },
+  {
+    "city": "Pearland",
+    "state": "TX",
+    "slug": "pearland",
+    "metro_area": "Greater Houston",
+    "population_tier": "large",
+    "nearby_cities": [
+      "Houston",
+      "Friendswood",
+      "Manvel"
+    ],
+    "contractor_density": "medium",
+    "competitiveness_summary": "Strong suburban demand and rising ad competition.",
+    "service_relevance_notes": "Offer-focused landing pages improve CPL."
+  },
+  {
+    "city": "Pasadena",
+    "state": "TX",
+    "slug": "pasadena",
+    "metro_area": "Greater Houston",
+    "population_tier": "large",
+    "nearby_cities": [
+      "Houston",
+      "Deer Park",
+      "La Porte"
+    ],
+    "contractor_density": "medium",
+    "competitiveness_summary": "Large market where response speed wins jobs.",
+    "service_relevance_notes": "AI lead handling improves close rates."
+  },
+  {
+    "city": "Laredo",
+    "state": "TX",
+    "slug": "laredo",
+    "metro_area": "South Texas",
+    "population_tier": "large",
+    "nearby_cities": [
+      "Del Rio",
+      "Eagle Pass",
+      "San Antonio"
+    ],
+    "contractor_density": "medium",
+    "competitiveness_summary": "Regional contractor market with bilingual buyer dynamics.",
+    "service_relevance_notes": "Localized trust content increases conversion confidence."
+  }
+]
